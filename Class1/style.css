@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    h1{
+    background-color: bisque  !important;
+}
+p{
+    background-color: #652f2f ;
+    color: #d9d2dac9;
+}
+span{
+    border: 7px solid black ;
+}
+u{
+    border: 7px groove rgb(179, 152, 152) ;
+}
+h1{
+    background-color: blue;
+}
+#unique{
+    background-color: burlywood;
+}
