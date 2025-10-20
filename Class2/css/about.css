@@ -1,0 +1,20 @@
+#unique{
+    background-color: bisque;
+}
+h1{
+    background-color: blue;
+}
+h1~p{
+    background-color: cadetblue;
+}
+.heading{
+    background-color: #2c1717;
+}
+div{
+    background-color: rgb(114, 159, 197);
+color: rgb(147, 142, 134);
+}
+p{
+    color: inherit;
+    background-color: inherit ;
+}

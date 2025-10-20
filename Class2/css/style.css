@@ -1,0 +1,14 @@
+h1{
+    background-color: pink;
+}
+.hello{
+    background-color: aquamarine;
+}
+li{
+    color: aqua;
+}
+div>a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: red;
+}
