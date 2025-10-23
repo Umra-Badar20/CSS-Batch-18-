@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+h1 {
+  /* color: #9ba361;
+  background: #fc6060;
+  background: linear-gradient(
+    90deg,
+    rgba(252, 96, 96, 1) 28%,
+    rgba(155, 163, 97, 1) 60%,
+    rgba(155, 163, 97, 1) 100%
+  ); */
+  /* font-family: Georgia, Times, serif; */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-shadow: 10px 10px 2px red;
+}
+div{
+    height: 50vh;
+    /* background-color: aquamarine; */
+}
+p{
+    font-weight: 500;
+    font-style: italic;
+    text-transform: capitalize;
+    
+}
+.para{
+    text-indent: 50px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
