@@ -1,0 +1,38 @@
+h1{
+    color: rgb(115, 219, 222);
+    text-shadow: 10px 7px 9px #000606;
+}
+div{
+    background-color: #0f5c5e;
+    height: 80vh;
+}
+/* span{
+    font-size: 100px;
+} */
+h1:first-letter{
+    font-size: 100px;
+    font-style: italic;
+}
+p::first-line{
+    color: aliceblue;
+}
+/* .google:link{
+    color: #0f5c5e;
+}
+a:visited{
+    color: brown;
+} */
+p:hover{
+    text-shadow: 5px 5px 5px #000000;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 4s;
+    cursor: grab;
+    color: #665544;;
+}
+a:active{
+    color: aliceblue;
+}
+a:focus{
+    background-color: #665544;
+}
