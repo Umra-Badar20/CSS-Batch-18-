@@ -1,0 +1,75 @@
+/* @font-face {
+    font-family: "Umra";
+    src: url(fonts/Quicksand-Medium.ttf);
+}
+a:hover{
+    color: aqua;
+}
+a:focus{
+    color: rgb(104, 187, 37);
+}
+a:active{
+    color: rgb(180, 8, 100);
+}
+a:visited{
+    color: rgb(57, 19, 122);
+}
+p{
+    font-family: "Umra";
+}*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/* div{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+}
+.dummy{
+    height: 50%;
+    width: 50%;
+    background-color: blueviolet;
+    font-family: "Monsieur La Doulaise";
+    font-weight: 900;
+    overflow-y: hidden;
+    padding:40px 20px 30px 10px; */
+    /* padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px; */
+    /* border: 10px solid black; */
+    /* border-width: 10px 30px;
+    border-color: black chocolate deeppink blue;
+    border-style: solid; */
+    /* border: 40px solid pink; */
+    /* margin: 50px; */
+/* } */
+/* input:focus{
+    background-color: black;
+} 
+
+.car{
+    max-width: 1000px; */
+    /* min-width: 400px; */
+/* } */
+
+
+
+li{
+    display:inline;
+    width: 100px;
+}
+.coming-soon{
+    /* display: none; */
+    visibility: hidden;
+}
+p{
+    border: 10px solid blue;
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: aqua;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
